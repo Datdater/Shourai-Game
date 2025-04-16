@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - Audio
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Sword
+  - FX
+  - Item
+  - SkillPrefabs
+  - Bridge
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3817343789
+    locked: 0
+  - name: Ground
+    uniqueID: 3073329427
+    locked: 0
+  - name: ForeGround
+    uniqueID: 3681588029
+    locked: 0
+  - name: Item
+    uniqueID: 4056777469
+    locked: 0
+  - name: Enemy
+    uniqueID: 3605304875
+    locked: 0
+  - name: Player
+    uniqueID: 424146261
+    locked: 0
+  - name: FX
+    uniqueID: 3332531077
+    locked: 0
+  - name: FX
+    uniqueID: 1060432067
+    locked: 0
+  m_RenderingLayers:
+  - Default
